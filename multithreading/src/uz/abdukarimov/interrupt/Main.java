@@ -8,7 +8,7 @@ public class Main {
             while (!Thread.currentThread().isInterrupted()) {
                 try {
                     System.out.println("Ish bajarilmoqda...");
-                    Thread.sleep(500);
+                    Thread.sleep(100);
                 } catch (InterruptedException e) {
                     // sleep interrupt qabul qildi — flagni qayta o'rnatish!
                     Thread.currentThread().interrupt();
