@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/heapstackmemory/heapstackmemory.iml" filepath="$PROJECT_DIR$/heapstackmemory/heapstackmemory.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-interview-preparation.iml" filepath="$PROJECT_DIR$/java-interview-preparation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java21features/java21features.iml" filepath="$PROJECT_DIR$/java21features/java21features.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
     </modules>
