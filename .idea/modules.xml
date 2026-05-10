@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/java-interview-preparation.iml" filepath="$PROJECT_DIR$/java-interview-preparation.iml" />
       <module fileurl="file://$PROJECT_DIR$/java21features/java21features.iml" filepath="$PROJECT_DIR$/java21features/java21features.iml" />
       <module fileurl="file://$PROJECT_DIR$/multithreading/multithreading.iml" filepath="$PROJECT_DIR$/multithreading/multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nio/nio.iml" filepath="$PROJECT_DIR$/nio/nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
     </modules>
